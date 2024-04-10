@@ -5,7 +5,8 @@
 System.out.println("Hello, world!"); 
 ```
 
-![Profile Picture](images/profile.jpg)
+
+![Profile Picture](images/profile3.jpg)
 
 ## About Me
 Hello, my name is Riana! I am a computer science-math major, philosophy minor at UC San Diego. 
